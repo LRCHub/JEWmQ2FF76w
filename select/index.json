@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アラクネ",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-07T14:48:15.969268Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アラクネ",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_アラクネ_いよわ.txt"
+    }
+  ]
+}
